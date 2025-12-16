@@ -1,4 +1,4 @@
-# unifyapps-devops-project
+# Cloud Dock - CICD project
 ![CI/CD](https://github.com/sidagl/clouddock-cicd/actions/workflows/deploy.yml/badge.svg)
 # Cloud Dock - CICD 🚀
 
