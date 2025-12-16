@@ -1,6 +1,6 @@
 # unifyapps-devops-project
-![CI/CD](https://github.com/sidagl/unifyapps-devops-project/actions/workflows/deploy.yml/badge.svg)
-# UnifyApps DevOps Project 🚀
+![CI/CD](https://github.com/sidagl/clouddock-cicd/actions/workflows/deploy.yml/badge.svg)
+# Cloud Dock - CICD 🚀
 
 An end-to-end **DevOps CI/CD project** demonstrating how to deploy a Dockerized application on **AWS EC2** using **GitHub Actions**, **Docker Compose**, and **Nginx**.
 
@@ -50,7 +50,7 @@ Developer → GitHub (push)
 ## 📂 Project Structure
 
 ```
-unifyapps-devops-project/
+clouddock-cicd/
 ├── app/
 │   ├── app.py
 │   └── requirements.txt
