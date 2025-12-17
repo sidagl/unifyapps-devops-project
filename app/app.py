@@ -7,7 +7,7 @@ app = Flask(__name__)
 def home():
     return jsonify({
     "env": os.getenv("ENV", "production"),
-    "service": "UnifyApps DevOps Demo",
+    "service": "Cloud dock CICD Demo",
     "status": "running",
     "version": "v2 - CI/CD working 🎉"
     })
